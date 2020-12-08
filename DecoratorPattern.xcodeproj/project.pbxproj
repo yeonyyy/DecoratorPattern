@@ -14,6 +14,7 @@
 		6FDB2C09257FA1AB00424CEC /* DecoratorPattern.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6FDB2C07257FA1AB00424CEC /* DecoratorPattern.xcdatamodeld */; };
 		6FDB2C0B257FA1AC00424CEC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FDB2C0A257FA1AC00424CEC /* Assets.xcassets */; };
 		6FDB2C0E257FA1AC00424CEC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6FDB2C0C257FA1AC00424CEC /* LaunchScreen.storyboard */; };
+		6FDB2C16257FA1BC00424CEC /* DecoratorPattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FDB2C15257FA1BC00424CEC /* DecoratorPattern.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		6FDB2C0A257FA1AC00424CEC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6FDB2C0D257FA1AC00424CEC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6FDB2C0F257FA1AC00424CEC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6FDB2C15257FA1BC00424CEC /* DecoratorPattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecoratorPattern.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				6FDB2BFE257FA1AB00424CEC /* AppDelegate.swift */,
 				6FDB2C00257FA1AB00424CEC /* SceneDelegate.swift */,
 				6FDB2C02257FA1AB00424CEC /* ViewController.swift */,
+				6FDB2C15257FA1BC00424CEC /* DecoratorPattern.swift */,
 				6FDB2C04257FA1AB00424CEC /* Main.storyboard */,
 				6FDB2C0A257FA1AC00424CEC /* Assets.xcassets */,
 				6FDB2C0C257FA1AC00424CEC /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6FDB2C03257FA1AB00424CEC /* ViewController.swift in Sources */,
+				6FDB2C16257FA1BC00424CEC /* DecoratorPattern.swift in Sources */,
 				6FDB2BFF257FA1AB00424CEC /* AppDelegate.swift in Sources */,
 				6FDB2C09257FA1AB00424CEC /* DecoratorPattern.xcdatamodeld in Sources */,
 				6FDB2C01257FA1AB00424CEC /* SceneDelegate.swift in Sources */,
